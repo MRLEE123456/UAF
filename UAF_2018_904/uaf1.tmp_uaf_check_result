@@ -1,0 +1,8 @@
+**bad
+	alloc:0x8048633
+	free:0x8048552
+	use:0x8048560
+**bad
+	alloc:0x8048633
+	free:0x8048552
+	use:0x8048560
